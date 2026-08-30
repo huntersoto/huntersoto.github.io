@@ -31,8 +31,8 @@ p {
     text-align: justify; /* Justify text within paragraph elements */
     letter-spacing: 1px; /* This expands the text slightly */
     font-size: 20px;
-    padding-left: 25px; /* Adds padding to the left of the paragraph element */
-    padding-right: 25px; /* Adds padding to the right of the paragraph element */
+    padding-left: 20px; /* Adds padding to the left of the paragraph element */
+    padding-right: 20px; /* Adds padding to the right of the paragraph element */
 }
 
 /* Paragraph element hover effect */
